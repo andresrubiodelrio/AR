@@ -7,3 +7,6 @@ https://www.desarrollolibre.net/blog/android/realidad-aumentada-con-vuforia
 https://www.espai.es/blog/2020/12/realidad-aumentada-unity-vuforia/
 https://mixamo.com/#/
 https://ttsmp3.com/
+https://www.youtube.com/watch?v=ElmzIq6stNI
+https://library.vuforia.com/articles/Solution/How-To-Implement-Virtual-Buttons.html
+
