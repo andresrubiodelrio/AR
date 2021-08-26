@@ -15,3 +15,5 @@ https://github.com/tostegroo/Vuforia7Template/blob/master/Assets/Editor/Vuforia/
 https://github.com/tostegroo/Vuforia7Template
 https://blog.hotmart.com/es/chroma-key/
 https://github.com/hecomi/uChromaKey
+https://www.youtube.com/watch?v=LzKK4IrUdDI
+https://github.com/dilmerv/UnityVuforiaDemos/tree/master/Assets/Prefabs
