@@ -18,3 +18,4 @@ https://github.com/hecomi/uChromaKey
 https://www.youtube.com/watch?v=LzKK4IrUdDI
 https://github.com/dilmerv/UnityVuforiaDemos/tree/master/Assets/Prefabs
 https://library.vuforia.com/articles/Solution/vuforia-engine-package-hosting-for-unity.html
+https://open3dmodel.com/
