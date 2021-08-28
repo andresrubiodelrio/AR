@@ -7,23 +7,33 @@ https://integralplm.com/vuforia-engine/#funcionalidades
 https://www.desarrollolibre.net/blog/android/realidad-aumentada-con-vuforia  
 https://www.espai.es/blog/2020/12/realidad-aumentada-unity-vuforia/  
 
-
-https://www.youtube.com/watch?v=ElmzIq6stNI  
+## Vuforia
 https://library.vuforia.com/articles/Solution/How-To-Implement-Virtual-Buttons.html  
 https://library.vuforia.com/articles/Solution/ground-plane-guide.html  
 https://library.vuforia.com/features/environments/ground-plane-guide.html  
-https://github.com/tostegroo/Vuforia7Template/blob/master/Assets/Editor/Vuforia/ForPrint/Emulator/Emulator%20Ground%20Plane.pdf  
-https://github.com/tostegroo/Vuforia7Template  
-https://blog.hotmart.com/es/chroma-key/  
-https://github.com/hecomi/uChromaKey  
-https://www.youtube.com/watch?v=LzKK4IrUdDI  
-https://github.com/dilmerv/UnityVuforiaDemos/tree/master/Assets/Prefabs  
 https://library.vuforia.com/articles/Solution/vuforia-engine-package-hosting-for-unity.html  
-https://open3dmodel.com/  
-## Recursos y assets  
+
+  
+ 
+https://github.com/dilmerv/UnityVuforiaDemos/tree/master/Assets/Prefabs  
+
+https://www.youtube.com/watch?v=LzKK4IrUdDI 
+https://www.youtube.com/watch?v=ElmzIq6stNI  
+
+## Recursos
+### Assets  
 https://mixamo.com/#/  
 https://open3dmodel.com/ 
+
+### Plantillas
+https://github.com/tostegroo/Vuforia7Template/blob/master/Assets/Editor/Vuforia/ForPrint/Emulator/Emulator%20Ground%20Plane.pdf  
+https://github.com/tostegroo/Vuforia7Template  
 
 ## Conversores
 ### Texto a voz
 https://ttsmp3.com/  
+
+### Chroma 
+https://blog.hotmart.com/es/chroma-key/  
+https://github.com/hecomi/uChromaKey  
+
