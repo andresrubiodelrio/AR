@@ -27,6 +27,7 @@ https://www.youtube.com/watch?v=ElmzIq6stNI
 https://mixamo.com  
 https://open3dmodel.com/  
 https://github.com/dilmerv/UnityVuforiaDemos/tree/master/Assets/Prefabs  
+https://assetstore.unity.com/?free=true&q=lean%20touch&orderBy=1  
 
 ### Plantillas
 https://github.com/tostegroo/Vuforia7Template/blob/master/Assets/Editor/Vuforia/ForPrint/Emulator/Emulator%20Ground%20Plane.pdf  
