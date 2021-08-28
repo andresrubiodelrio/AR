@@ -13,17 +13,16 @@ https://library.vuforia.com/articles/Solution/ground-plane-guide.html
 https://library.vuforia.com/features/environments/ground-plane-guide.html  
 https://library.vuforia.com/articles/Solution/vuforia-engine-package-hosting-for-unity.html  
 
-  
- 
-https://github.com/dilmerv/UnityVuforiaDemos/tree/master/Assets/Prefabs  
-
+### Ground Plane and MidAir
 https://www.youtube.com/watch?v=LzKK4IrUdDI 
+### Virtual Buttons
 https://www.youtube.com/watch?v=ElmzIq6stNI  
 
 ## Recursos
 ### Assets  
 https://mixamo.com/#/  
 https://open3dmodel.com/ 
+https://github.com/dilmerv/UnityVuforiaDemos/tree/master/Assets/Prefabs  
 
 ### Plantillas
 https://github.com/tostegroo/Vuforia7Template/blob/master/Assets/Editor/Vuforia/ForPrint/Emulator/Emulator%20Ground%20Plane.pdf  
