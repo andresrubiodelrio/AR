@@ -13,6 +13,9 @@ https://library.vuforia.com/articles/Solution/ground-plane-guide.html
 https://library.vuforia.com/features/environments/ground-plane-guide.html  
 https://library.vuforia.com/articles/Solution/vuforia-engine-package-hosting-for-unity.html  
 
+### Escanear objetos reales
+https://library.vuforia.com/object-targets/vuforia-object-scanner
+
 ### Ground Plane and MidAir
 https://www.youtube.com/watch?v=LzKK4IrUdDI 
 ### Virtual Buttons
