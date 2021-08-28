@@ -7,6 +7,9 @@ https://integralplm.com/vuforia-engine/#funcionalidades
 https://www.desarrollolibre.net/blog/android/realidad-aumentada-con-vuforia  
 https://www.espai.es/blog/2020/12/realidad-aumentada-unity-vuforia/  
 
+## Android & IOS
+https://developer.android.com/studio/debug/dev-options  
+
 ## Vuforia
 https://library.vuforia.com/articles/Solution/How-To-Implement-Virtual-Buttons.html  
 https://library.vuforia.com/articles/Solution/ground-plane-guide.html  
