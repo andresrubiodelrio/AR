@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=ElmzIq6stNI
 
 ## Recursos
 ### Assets  
-https://mixamo.com/#/  
+https://mixamo.com  
 https://open3dmodel.com/  
 https://github.com/dilmerv/UnityVuforiaDemos/tree/master/Assets/Prefabs  
 
