@@ -36,6 +36,11 @@ https://assetstore.unity.com/?free=true&q=lean%20touch&orderBy=1
 https://github.com/tostegroo/Vuforia7Template/blob/master/Assets/Editor/Vuforia/ForPrint/Emulator/Emulator%20Ground%20Plane.pdf  
 https://github.com/tostegroo/Vuforia7Template  
 
+### Texto
+https://www.dafont.com/es/splatch.font  
+https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/script-Text.html  
+https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/StyledText.html  
+
 ## Conversores
 ### Texto a voz
 https://ttsmp3.com/  
