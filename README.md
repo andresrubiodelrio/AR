@@ -9,6 +9,9 @@ https://www.espai.es/blog/2020/12/realidad-aumentada-unity-vuforia/
 
 
 ## Vuforia
+https://library.vuforia.com/getting-started/vuforia-features  
+https://library.vuforia.com/platform-support/vuforia-engine-recommended-devices.html  
+https://library.vuforia.com/features/images/image-targets/best-practices-for-designing-and-developing-image-based-targets.html  
 https://library.vuforia.com/articles/Solution/How-To-Implement-Virtual-Buttons.html  
 https://library.vuforia.com/articles/Solution/ground-plane-guide.html  
 https://library.vuforia.com/features/environments/ground-plane-guide.html  
