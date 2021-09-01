@@ -28,7 +28,8 @@ https://www.youtube.com/watch?v=ElmzIq6stNI
 ## Recursos
 ### Assets  
 https://mixamo.com  
-https://open3dmodel.com/  
+https://open3dmodel.com/ 
+https://sketchfab.com/feed  
 https://github.com/dilmerv/UnityVuforiaDemos/tree/master/Assets/Prefabs  
 https://assetstore.unity.com/?free=true&q=lean%20touch&orderBy=1  
 
