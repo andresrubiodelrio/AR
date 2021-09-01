@@ -16,6 +16,8 @@ https://library.vuforia.com/articles/Solution/How-To-Implement-Virtual-Buttons.h
 https://library.vuforia.com/articles/Solution/ground-plane-guide.html  
 https://library.vuforia.com/features/environments/ground-plane-guide.html  
 https://library.vuforia.com/articles/Solution/vuforia-engine-package-hosting-for-unity.html  
+https://library.vuforia.com/articles/Solution/Working-with-the-Camera.html  
+
 
 ### Escanear objetos reales
 https://library.vuforia.com/object-targets/vuforia-object-scanner
