@@ -54,3 +54,8 @@ https://github.com/hecomi/uChromaKey
 
 ### Cam
 https://droidcam.softonic.com/  
+
+## AR FOUNDATION  
+https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.1/manual/index.html  
+https://docs.unity3d.com/Packages/com.unity.xr.arcore@4.1/manual/index.html  
+https://docs.unity3d.com/Packages/com.unity.xr.management@4.0/manual/index.html  
