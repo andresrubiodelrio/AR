@@ -1,6 +1,7 @@
 # AR
 ## Teoría
 https://unity.com/es/unity/features/ar  
+https://docs.unity3d.com/Manual/ScriptingImportantClasses.html  
 https://www.bbva.com/es/siete-usos-realidad-aumentada-ya-estan-aqui/  
 https://unity.com/es/solutions/ar-and-vr-games  
 https://integralplm.com/vuforia-engine/#funcionalidades  
