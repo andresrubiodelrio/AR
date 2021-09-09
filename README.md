@@ -41,6 +41,9 @@ https://assetstore.unity.com/?free=true&q=lean%20touch&orderBy=1
 https://github.com/tostegroo/Vuforia7Template/blob/master/Assets/Editor/Vuforia/ForPrint/Emulator/Emulator%20Ground%20Plane.pdf  
 https://github.com/tostegroo/Vuforia7Template  
 
+### Teclas de acceso rápido
+https://docs.unity3d.com/Manual/UnityHotkeys.html?_ga=2.165722942.1257002471.1630965411-1880425249.1627335592  
+
 ### Texto
 https://www.dafont.com/es/splatch.font  
 https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/script-Text.html  
