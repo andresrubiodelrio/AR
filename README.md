@@ -80,6 +80,13 @@ https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@2.2/manual/plane-man
 ### AR Foundatoin Samples
 https://github.com/Unity-Technologies/arfoundation-samples  
 
-https://learn.unity.com/tutorial/module-object-interaction?uv=2018.4&courseId=5d389222edbc2a001ff1dceb&projectId=5d388d8fedbc2a0020697cb7#5e6b5f93edbc2a00205fca67  
+https://tutorialsforar.com/creating-an-ar-app-for-ios-using-unity-and-arkit/  
+https://tutorialsforar.com/create-a-single-ar-app-for-android-ios-using-unity-ar-foundation/  
 https://tutorialsforar.com/how-to-use-plane-tracking-in-ar-and-place-objects-using-unity/  
+https://tutorialsforar.com/how-to-calculate-plane-area-in-ar-using-unity-and-ar-foundation/  
+https://tutorialsforar.com/creating-a-rocket-launch-ar-experience-with-ar-foundation-and-unity/  
 https://www.youtube.com/hashtag/arfoundation  
+
+
+https://learn.unity.com/tutorial/module-object-interaction?uv=2018.4&courseId=5d389222edbc2a001ff1dceb&projectId=5d388d8fedbc2a0020697cb7#5e6b5f93edbc2a00205fca67  
+https://learn.unity.com/tutorial/instantiating-ar-models-into-a-virtual-scene?language=en#6036d513edbc2a0564a92be3  
