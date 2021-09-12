@@ -90,3 +90,9 @@ https://www.youtube.com/hashtag/arfoundation
 
 https://learn.unity.com/tutorial/module-object-interaction?uv=2018.4&courseId=5d389222edbc2a001ff1dceb&projectId=5d388d8fedbc2a0020697cb7#5e6b5f93edbc2a00205fca67  
 https://learn.unity.com/tutorial/instantiating-ar-models-into-a-virtual-scene?language=en#6036d513edbc2a0564a92be3  
+https://learn.unity.com/tutorial/instantiating-ar-models-into-a-virtual-scene?language=en#  
+https://learn.unity.com/tutorial/recorded-video-session-creating-ar-content-with-vuforia?language=en#5c7f8528edbc2a002053b459  
+https://learn.unity.com/project/get-ready-get-set-pokemon-go?uv=2018.4&courseId=5d8c2359edbc2a00202bcad3  
+https://learn.unity.com/tutorial/placing-and-manipulating-objects-in-ar?language=en#605103a5edbc2a6c32bf5663  
+https://learn.unity.com/tutorial/ar-photography-with-the-unity-native-toolkit?language=en#602c2635edbc2a2625041290  
+
