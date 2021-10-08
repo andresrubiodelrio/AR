@@ -8,7 +8,15 @@ https://unity.com/es/solutions/ar-and-vr-games
 https://integralplm.com/vuforia-engine/#funcionalidades  
 https://www.desarrollolibre.net/blog/android/realidad-aumentada-con-vuforia  
 https://www.espai.es/blog/2020/12/realidad-aumentada-unity-vuforia/  
+
+# VR  
 https://www.youtube.com/c/ValemVR/videos  
+https://www.youtube.com/watch?v=wnn-dzHz-tA&list=PLwz27aQG0IIJ8cPM-npX2AJ6Nb-MruYP3  
+https://www.youtube.com/watch?v=oqXBY51KP5A&list=PLwz27aQG0IILSkaQreklXY_qAfr-rUbtC  
+https://www.youtube.com/watch?v=u6s9905zv5I&list=PLwz27aQG0IIK88An7Gd16An9RrdCXKBAB  
+https://www.youtube.com/watch?v=F4gDjCLYX88  
+https://www.youtube.com/c/JustinPBarnett/playlists  
+
 
 
 ## Vuforia
