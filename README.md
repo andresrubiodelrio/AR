@@ -107,3 +107,9 @@ https://learn.unity.com/tutorial/ar-photography-with-the-unity-native-toolkit?la
 https://www.youtube.com/c/unity/search?query=ar  
 https://www.youtube.com/watch?v=DlI5uYH-enk  
 
+
+# MULTIPLAYER E IA  
+## Photon  
+
+https://assetstore.unity.com/packages/tools/network/pun-2-free-119922  
+https://www.photonengine.com/en-US/Photon  
