@@ -114,6 +114,9 @@ https://www.youtube.com/watch?v=DlI5uYH-enk
 https://assetstore.unity.com/packages/tools/network/pun-2-free-119922  
 https://www.photonengine.com/en-US/Photon  
 
-##ParrelSync  
+## ParrelSync  
 https://github.com/VeriorPies/ParrelSync/releases  
 
+# Otros enlaces  
+https://www.youtube.com/watch?v=A7DrujIVAZ8  
+https://www.youtube.com/watch?v=WN6joNuvF8U  
