@@ -120,3 +120,5 @@ https://github.com/VeriorPies/ParrelSync/releases
 # Otros enlaces  
 https://www.youtube.com/watch?v=A7DrujIVAZ8  
 https://www.youtube.com/watch?v=WN6joNuvF8U  
+Academia de videojuegos: https://www.youtube.com/channel/UCBhkLrsmV9PVQMpT3qe-toA  
+
