@@ -17,6 +17,8 @@ https://www.youtube.com/watch?v=u6s9905zv5I&list=PLwz27aQG0IIK88An7Gd16An9RrdCXK
 https://www.youtube.com/watch?v=F4gDjCLYX88  
 https://www.youtube.com/c/JustinPBarnett/playlists  
 
+##InstaVR  
+https://www.instavr.co/  
 
 
 ## Vuforia
