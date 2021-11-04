@@ -123,4 +123,6 @@ https://github.com/VeriorPies/ParrelSync/releases
 https://www.youtube.com/watch?v=A7DrujIVAZ8  
 https://www.youtube.com/watch?v=WN6joNuvF8U  
 Academia de videojuegos: https://www.youtube.com/channel/UCBhkLrsmV9PVQMpT3qe-toA  
+https://academy.zenva.com/programming-and-gaming-email-boot-camps/  
+
 
