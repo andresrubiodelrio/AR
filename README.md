@@ -58,7 +58,10 @@ https://docs.unity3d.com/Manual/UnityHotkeys.html?_ga=2.165722942.1257002471.163
 ### Texto
 https://www.dafont.com/es/splatch.font  
 https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/script-Text.html  
-https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/StyledText.html  
+https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/StyledText.html 
+
+###Iconos
+https://game-icons.net/  
 
 ## Conversores
 ### Texto a voz
