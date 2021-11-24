@@ -30,6 +30,8 @@ https://library.vuforia.com/articles/Solution/ground-plane-guide.html
 https://library.vuforia.com/features/environments/ground-plane-guide.html  
 https://library.vuforia.com/articles/Solution/vuforia-engine-package-hosting-for-unity.html  
 https://library.vuforia.com/articles/Solution/Working-with-the-Camera.html  
+https://assetstore.unity.com/packages/templates/packs/vuforia-engine-163598  
+https://assetstore.unity.com/packages/templates/packs/vuforia-books-sample-102254  
 
 
 ### Escanear objetos reales
