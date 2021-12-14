@@ -132,3 +132,19 @@ Academia de videojuegos: https://www.youtube.com/channel/UCBhkLrsmV9PVQMpT3qe-to
 https://academy.zenva.com/programming-and-gaming-email-boot-camps/  
 
 
+# AFrame
+## Teoría
+https://aframe.io/  
+https://github.com/aframevr/aframe  
+Ejemplos:  
+https://www.youtube.com/watch?v=GHzStTeFztM  
+https://www.youtube.com/watch?v=ZZgcCtrgJsw  
+
+## AR
+https://github.com/jeromeetienne/AR.js/  
+https://kulwik.medium.com/image-recognition-in-webar-with-ar-js-3-0-6ce3255066a2  
+https://codepen.io/jeromeetienne/pen/mRqqzb  
+https://emiliusvgs.com/a-frame-realidad-extendida-ar-vr-mr/  
+https://www.youtube.com/watch?v=vWGASz5g0A0&list=PL71esGVVfUtmvtc4m-NRYjy2uvPzi-dI7  
+https://www.youtube.com/watch?v=93ddLV623kI&list=PL71esGVVfUtkCbD64Jdg6zqK3Xw52JWPI&index=180  
+
