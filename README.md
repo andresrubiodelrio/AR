@@ -153,6 +153,10 @@ https://www.youtube.com/watch?v=gAv7I2NNVYE&list=PLuG_hiz1XY0PjrFA6gV2Z9dBFUDQh8
 https://www.youtube.com/watch?v=3Lnvrhh_KxA  
 
 
+https://emiliusvgs.com/realidad-aumentada-con-objetos-3d-arjs-aframe/  
+https://emiliusvgs.com/realidad-aumentada-arjs-aframe-geometria/  
+https://emiliusvgs.com/ar-js-solucion-definitiva-de-realidad-aumentada-con-javascript/  
+
 https://app.ed.team/cursos/rv-web/01/01  
 https://slides.com/itermar/taller-web-ar-y-web-vr/fullscreen#/15  
 https://mozilla-ni.org/crear-realidad-aumentada-con-aframe-y-ar-js/  
