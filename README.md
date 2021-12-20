@@ -170,5 +170,6 @@ https://www.coursera.org/lecture/3d-models-virtual-reality/why-use-a-frame-9hirP
 
 ###Herramientas  
 https://svd360.istreetview.com/ 
+NOrmal Map Onlin: http://cpetry.github.io/NormalMap-Online/  
 
 
