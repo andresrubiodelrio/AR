@@ -164,6 +164,7 @@ https://app.ed.team/cursos/rv-web/01/01
 https://slides.com/itermar/taller-web-ar-y-web-vr/fullscreen#/15  
 https://mozilla-ni.org/crear-realidad-aumentada-con-aframe-y-ar-js/  
 https://www.youtube.com/watch?v=dv6_C4UqTfs&list=PLRtjMdoYXLf4inSULAHyCMqpIUj4cmBTr  (Video tutoriales con explicación de cada cosa)  
+https://github.com/SonarSystems/A-Frame-WebVR-Tutorials  Ejemplos del canal anterior  
 https://blog.trescomatres.com/2017/12/a-frame-un-framework-para-crear-proyectos-vr-con-webgl/  
 https://www.codecademy.com/learn/learn-a-frame  
 https://www.coursera.org/lecture/3d-models-virtual-reality/why-use-a-frame-9hirP  
