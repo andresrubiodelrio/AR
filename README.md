@@ -177,6 +177,7 @@ https://github.com/DeivyPereira/VREducativo
 https://kryptonsolid.com/creando-experiencias-webvr-con-a-frame/  
 https://blanchardspace.wordpress.com/2020/05/10/crear-realidad-aumentada-con-aframe-y-ar-js/  
 https://www.acceseo.com/crea-tu-primera-aplicacion-de-realidad-virtual-con-a-frame.html  
+https://weekly-geekly-es.imtqy.com/articles/440694/index.html  
 
 ###Herramientas  
 https://svd360.istreetview.com/ 
