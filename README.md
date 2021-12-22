@@ -169,6 +169,11 @@ https://blog.trescomatres.com/2017/12/a-frame-un-framework-para-crear-proyectos-
 https://www.codecademy.com/learn/learn-a-frame  
 https://www.coursera.org/lecture/3d-models-virtual-reality/why-use-a-frame-9hirP  
 
+###Juegos con AR.js
+https://www.adictosaltrabajo.com/2017/08/29/aframe-para-hacer-un-videojuego/  
+https://ichi.pro/es/hacer-un-juego-de-realidad-aumentada-con-aframe-90838620082379  
+https://programacion.net/articulo/10_demos_y_experimentos_webvr_realmente_alucinantes_1948   
+https://github.com/DeivyPereira/VREducativo   
 ###Herramientas  
 https://svd360.istreetview.com/ 
 NOrmal Map Onlin: http://cpetry.github.io/NormalMap-Online/  
