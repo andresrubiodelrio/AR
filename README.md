@@ -174,6 +174,10 @@ https://www.adictosaltrabajo.com/2017/08/29/aframe-para-hacer-un-videojuego/
 https://ichi.pro/es/hacer-un-juego-de-realidad-aumentada-con-aframe-90838620082379  
 https://programacion.net/articulo/10_demos_y_experimentos_webvr_realmente_alucinantes_1948   
 https://github.com/DeivyPereira/VREducativo   
+https://kryptonsolid.com/creando-experiencias-webvr-con-a-frame/  
+https://blanchardspace.wordpress.com/2020/05/10/crear-realidad-aumentada-con-aframe-y-ar-js/  
+https://www.acceseo.com/crea-tu-primera-aplicacion-de-realidad-virtual-con-a-frame.html  
+
 ###Herramientas  
 https://svd360.istreetview.com/ 
 NOrmal Map Onlin: http://cpetry.github.io/NormalMap-Online/  
