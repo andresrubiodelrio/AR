@@ -188,5 +188,8 @@ https://sidequestvr.com/
 https://threejs.org/editor/  
 https://blog.realidad-aumentada.com.co/category/realidad-aumentada/  
 https://www.runroom.com/realworld/el-presente-de-la-ar-y-vr-es-tu-propia-web  
+https://runroom.github.io/augmented-reality/  
+https://blog.realidad-aumentada.com.co/category/realidad-aumentada/  
+https://blog.realidad-aumentada.com.co/tutorial-de-como-hacer-una-app-de-realidad-aumentada-en-minutos/  
 
 
