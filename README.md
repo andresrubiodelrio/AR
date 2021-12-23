@@ -186,6 +186,7 @@ NOrmal Map Onlin: http://cpetry.github.io/NormalMap-Online/
 https://glitch.com/  
 https://sidequestvr.com/  
 https://threejs.org/editor/  
-
+https://blog.realidad-aumentada.com.co/category/realidad-aumentada/  
+https://www.runroom.com/realworld/el-presente-de-la-ar-y-vr-es-tu-propia-web  
 
 
