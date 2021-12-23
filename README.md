@@ -34,6 +34,9 @@ https://library.vuforia.com/articles/Solution/Working-with-the-Camera.html
 https://assetstore.unity.com/packages/templates/packs/vuforia-engine-163598  
 https://assetstore.unity.com/packages/templates/packs/vuforia-books-sample-102254  
 
+https://www.youtube.com/watch?v=X7ijTK2zS9Q&list=PLkbfAs8DnfZg3_z5ToS0s35N6QXxIKBsf  
+https://www.youtube.com/watch?v=LnrFbnNhLlU&list=PLkbfAs8DnfZioidrCICnrGL2Q_uREwxxS  
+
 
 ### Escanear objetos reales
 https://library.vuforia.com/object-targets/vuforia-object-scanner
@@ -191,5 +194,7 @@ https://www.runroom.com/realworld/el-presente-de-la-ar-y-vr-es-tu-propia-web
 https://runroom.github.io/augmented-reality/  
 https://blog.realidad-aumentada.com.co/category/realidad-aumentada/  
 https://blog.realidad-aumentada.com.co/tutorial-de-como-hacer-una-app-de-realidad-aumentada-en-minutos/  
+https://github.com/AR-js-org  
+https://www.youtube.com/c/RealidadAumentadaEmpezandodesdecero/videos  
 
 
