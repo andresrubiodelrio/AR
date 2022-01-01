@@ -199,6 +199,8 @@ https://blog.realidad-aumentada.com.co/tutorial-de-como-hacer-una-app-de-realida
 https://github.com/AR-js-org  
 https://www.youtube.com/c/RealidadAumentadaEmpezandodesdecero/videos  
 https://free3d.com/  
+https://textures.com/  
+https://glitch.com/~aframe  
 
 
 
