@@ -204,6 +204,7 @@ https://glitch.com/~aframe
 https://webvr.info/  
 https://texturify.com/category/environment-panoramas.html  
 diorama shop  
+https://www.freepik.es/  
 
 
 
