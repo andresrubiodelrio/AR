@@ -205,6 +205,9 @@ https://webvr.info/
 https://texturify.com/category/environment-panoramas.html  
 diorama shop  
 https://www.freepik.es/  
+https://github.com/supermedium/superframe  
+https://github.com/wmurphyrd/aframe-super-hands-component  
+
 
 
 
